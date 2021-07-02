@@ -4,7 +4,6 @@
 **Medhana/medhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on Web development projects
-- 👯 I’m looking forward to collaborate with DevIncept
 ### Let's get started with my introduction
 
 #### Career Objectives: :mortar_board: :woman_student:
